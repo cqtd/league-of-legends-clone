@@ -1,11 +1,12 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using CQ.LeagueOfLegends;
 using UnityEngine;
 using UnityEngine.AI;
 
 public class Mover : MonoBehaviour
 {
-    public Camera currentCamera;
+    public Camera currentCamera; 
     public NavMeshAgent agent;
     public LayerMask groundLayer;
     
