@@ -1,0 +1,3037 @@
+# .MTL file for an accompanying .OBJ file, converted from .MAPGEO file format by FrankTheBoxMonster
+
+
+
+
+newmtl polySurfaceMapGeoMesh1SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/grnd_terrain_d.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh2SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/grnd_terrain_n.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh3SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/grnd_terrain_e.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh4SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/grnd_terrain_p.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh5SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/grnd_terrain_o.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh6SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/grnd_terrain_a.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh7SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/grnd_terrain_q.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh8SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/grnd_terrain_l.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh9SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/grnd_terrain_t.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh10SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/grnd_terrain_k.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh11SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/grnd_terrain_b.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh12SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/grnd_terrain_u.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh13SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/grnd_terrain_j.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh14SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/grnd_terrain_v.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh15SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/FtC_POI_Diff_A.SR_Worlds_MapsMountainConversion.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh16SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/grnd_terrain_g.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh17SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/grnd_terrain_f.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh18SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/grnd_terrain_h.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh19SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/grnd_terrain_y.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh20SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/grnd_terrain_s.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh21SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/grnd_terrain_x.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh22SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/bk_distant_horizon_a.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh23SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/bk_distant_horizon_a.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh24SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/bk_distant_horizon_a.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh25SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/grnd_terrain_r.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh26SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/grnd_terrain_c.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh27SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/grnd_terrain_i.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh28SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/grnd_terrain_m.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh29_1SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/Worlds_Trophy_TX_CM.SR_Worlds_MapsMountainConversion.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh29_2SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/FtC_POI_Diff_A.SR_Worlds_MapsMountainConversion.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh30_1SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/grnd_terrain_w.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh30_2SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/grnd_terrain_w.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh31SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_north_m.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh32SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_north_base_b.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh33SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_north_k.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh34SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_east_g.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh35SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_north_d.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh36SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_north_j1.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh37SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_north_j1.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh38_1SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/base_north_arches_periph.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh38_2SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/base_north_arches_periph.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh39SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_north_g.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh40SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/base_north_arches_periph.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh41SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_east_g.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh42SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_north_l.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh43SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_base_north_platform_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh44SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_base_north_walls_g_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh45SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_north_a.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh46SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_north_a.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh47SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_north_g.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh48SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_base_north_platform_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh49SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_north_a.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh50SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/mage_spawn_pad_b.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh51SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_north_d.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh52SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_north_a.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh53SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_north_d.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh54SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_base_north_shop_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh55SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_base_north_walls_f_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh56SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_north_k.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh57SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_north_l.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh58SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_j_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh59SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_k_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh60SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_l_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh61SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_l_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh62SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_j_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh63SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_k_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh64SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_l_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh65SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_k_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh66SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_l_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh67SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_l_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh68SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_j_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh69SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_l_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh70SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_l_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh71SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_l_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh72SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_l_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh73SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_k_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh74SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_l_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh75SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_i_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh76SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_i_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh77SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_j_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh78SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_j_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh79SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_i_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh80SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_base_north_walls_b_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh81SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_i_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh82SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_base_north_walls_b_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh83SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_h_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh84SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_base_north_walls_f_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh85SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_i_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh86SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_g_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh87SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_base_north_walls_f_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh88SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_i_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh89SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_g_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh90SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_g_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh91SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_g_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh92SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_g_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh93SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_base_north_walls_b_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh94SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_h_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh95SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_i_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh96SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_west_e.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh97SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_base_north_walls_f_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh98SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_g_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh99SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_i_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh100SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_i_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh101SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_i_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh102SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_i_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh103SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_i_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh104SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_g_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh105SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_g_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh106SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_east_d2.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh107SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh108SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh109SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh110SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_west_c4.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh111SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_base_north_walls_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh112SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh113SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/jungle_north_island_fb.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh114SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh115SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_west_c4.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh116SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_e_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh117SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_e_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh118SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_c_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh119SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_e_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh120SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/jungle_west_island_a.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh121SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/jungle_north_island_fa.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh122SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/jungle_north_island_fa.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh123SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/jungle_west_island_a.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh124SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_e_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh125SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/jungle_north_island_fb.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh126SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_base_north_walls_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh127SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/jungle_west_island_a.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh128SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_base_north_walls_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh129SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/jungle_west_island_a.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh130SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_base_north_walls_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh131SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_c_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh132SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_b_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh133SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_b_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh134SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_west_d3.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh135SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_west_d3.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh136SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_west_island_c_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh137SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_west_island_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh138SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_north_island_a_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh139SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_east_island_i_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh140SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_east_island_f_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh141SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_west_island_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh142SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_west_island_b_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh143SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_west_island_b_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh144SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_west_island_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh145SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_east_c.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh146SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_west_d3.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh147SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_east_island_h_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh148SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_east_island_g_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh149SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_east_island_i_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh150SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_west_island_e_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh151SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_east_island_f_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh152SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_west_d3.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh153SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_west_island_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh154SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_east_island_h_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh155SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_west_island_e_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh156SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_west_island_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh157SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_east_island_g_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh158SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_east_c1.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh159SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_west_island_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh160SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_east_island_e_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh161SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_east_island_e_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh162SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_east_island_e_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh163SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_east_island_e_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh164SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_west_island_h_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh165SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_base_south_west_a.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh166SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_west_island_g_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh167SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_east_island_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh168SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_a_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh169SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_west_a4.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh170SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_east_island_b_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh171SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_west_island_f_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh172SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_east_island_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh173SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_east_island_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh174SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_east_island_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh175SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_east_a1.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh176SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_east_island_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh177SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_east_island_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh178SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_east_island_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh179SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_east_island_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh180SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_east_island_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh181SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_east_island_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh182SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_west_island_i_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh183SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_east_island_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh184SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_east_island_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh185SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_east_island_c_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh186SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_east_a1.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh187SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_west_a4.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh188SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_b_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh189SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_b_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh190SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_b_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh191SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/south_island_f_dragonpita.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh192SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_west_island_i_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh193SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/south_island_f_dragonpitb.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh194SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_southeast_c3.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh195SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/south_island_f_dragonpita.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh196SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/jungle_east_island_a.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh197SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_base_south_walls_b_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh198SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/jungle_east_island_a.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh199SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/south_island_f_dragonpitb.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh200SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/south_island_f_dragonpitb.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh201SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/jungle_east_island_a.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh202SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_base_south_walls_b_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh203SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/jungle_east_island_a.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh204SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/jungle_east_island_a.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh205SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh206SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_south_walls_f.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh207SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_c_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh208SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_e_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh209SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_southeast_d2.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh210SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/jungle_east_island_a.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh211SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/south_island_f_dragonpita.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh212SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_c_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh213SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh214SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_c_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh215SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_e_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh216SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_southeast_c3.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh217SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_e_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh218SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/jungle_east_island_a.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh219SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_east_b1.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh220SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/south_island_f_dragonpita.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh221SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh222SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh223SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_d_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh224SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_southeast_a1.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh225SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_southeast_c3.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh226SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_base_south_walls_c_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh227SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_southeast_a1.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh228SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_i_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh229SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_h_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh230SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_h_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh231SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_i_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh232SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_g_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh233SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_southeast_eb.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh234SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_southeast_c3.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh235SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_base_south_walls_c_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh236SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_g_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh237SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_j_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh238SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_base_south_walls_c_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh239SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_l_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh240SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_l_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh241SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/south_platform_periph_coll.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh242SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_i_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh243SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_j_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh244SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_l_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh245SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_k_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh246SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_g_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh247SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_k_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh248SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_k_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh249SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_k_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh250SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_l_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh251SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_j_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh252SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_k_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh253SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_j_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh254SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/paly_south_base_edge_wall_right_a1.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh255SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/_chunk_jungle_south_island_k_alpha_3dcuv_atlas_color.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh256SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_southeast_a1.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh257SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/pally_platform.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh258SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_southeast_a1.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh259SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/pally_platform.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh260SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_south_f1.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh261SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/pally_platform.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh262SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/pally_platform.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh263SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/pally_base_side_walls_bot1.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh264SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_south_g_combined2.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh265SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/pally_base_side_walls_bot1.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh266SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_south_e1.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh267SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_south_e1.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh268SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/paly_south_base_edge_wall_right_a1.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh269SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/south_platform_periph_coll.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh270SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/base_south_foliage.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh271SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/periph_south_e1.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh272SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/south_platform_periph_coll.dds
+Ni 1.00
+
+
+
+
+newmtl polySurfaceMapGeoMesh273SG
+illum 2
+Kd 0 0 0
+Ka 0 0 0
+Tf 1.00 1.00 1.00
+map_Kd C:/Users/usuario/Downloads/Obsidian_3.1.2/Map11/data/maps/mapgeometry/map11/SummonersRift/Textures/paly_south_base_edge_wall_right_a1.dds
+Ni 1.00
