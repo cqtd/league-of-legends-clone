@@ -30,7 +30,7 @@ namespace CQ
 
 		void OnApplicationQuit()
 		{
-			Debug.Log("Quit");
+			Debug.Log($"{typeof(T)}::OnApplicationQuit");
 			Reset();
 		}
 

@@ -1,30 +1,43 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using CQ.LeagueOfLegends;
+﻿using CQ.LeagueOfLegends.Game;
 using UnityEngine;
 using UnityEngine.AI;
+using UnityEngine.InputSystem;
 
-public class Mover : MonoBehaviour
+public class Mover : InputHandlerBase, Rift.IMouseActions
 {
     public Camera currentCamera; 
     public NavMeshAgent agent;
     public LayerMask groundLayer;
-    
+
     // Start is called before the first frame update
     void Start()
     {
         currentCamera = Camera.main;
         agent = GetComponent<NavMeshAgent>();
+
+        rift.Mouse.SetCallbacks(this);
+        rift.Mouse.Enable();
+    }
+    
+    void MoveTo(Vector3 pos)
+    {
+        agent.SetDestination(pos);
     }
 
-    // Update is called once per frame
-    void Update()
+    public void OnLeft(InputAction.CallbackContext context)
     {
-        if (Input.GetMouseButton(0))
+        
+    }
+
+    public void OnRight(InputAction.CallbackContext context)
+    {
+        if (context.started)
         {
+            Debug.Log("Mouse Right");
+            
             // 레이를 만들고,
-            Ray ray = currentCamera.ScreenPointToRay(Input.mousePosition);
-				
+            Ray ray = currentCamera.ScreenPointToRay(Mouse.current.position.ReadValue());
+            
             // 쏩니다.
             if (Physics.Raycast(ray, out RaycastHit hit, float.MaxValue, groundLayer))
             {
@@ -32,10 +45,10 @@ public class Mover : MonoBehaviour
                 MoveTo(hit.point);
             }
         }
-    }
-    
-    void MoveTo(Vector3 pos)
-    {
-        agent.SetDestination(pos);
+
+        if (context.canceled)
+        {
+            
+        }
     }
 }
