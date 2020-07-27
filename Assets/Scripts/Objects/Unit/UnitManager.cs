@@ -4,8 +4,9 @@ using UnityEngine.Assertions;
 
 namespace CQ.LeagueOfLegends
 {
-	public class UnitManager : Singleton<UnitManager>
+	public class UnitManager : MonoSingleton<UnitManager>
 	{
+		AIHeroClient localPlayer; 
 		readonly List<UnitBase> units = new List<UnitBase>();
 		
 		public uint GetMaxSize()
@@ -29,6 +30,12 @@ namespace CQ.LeagueOfLegends
 		public void AddUnit()
 		{
 			units.Add(null);
+			Screen.fullScreenMode = FullScreenMode.FullScreenWindow;
+		}
+
+		public AIHeroClient GetLoaclPlayer()
+		{
+			return localPlayer;
 		}
 	}
 }

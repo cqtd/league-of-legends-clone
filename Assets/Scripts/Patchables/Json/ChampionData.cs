@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using System.IO;
 using Newtonsoft.Json;
-using Newtonsoft.Json.Serialization;
 using UnityEngine;
+using UnityEngine.Assertions;
 
 namespace CQ.LeagueOfLegends
 {
@@ -18,6 +18,39 @@ namespace CQ.LeagueOfLegends
 			var f = JsonConvert.DeserializeObject<Full>(File.ReadAllText(path));
 			
 			Debug.Log($"Champion Count :: {f.data.Count}".Bold());
+		}
+
+		[UnityEditor.MenuItem("Tools/Parse Champion Data")]
+		static void ParseChampionData()
+		{
+			
+		}
+	}
+
+	public class ChampionDatabase
+	{
+		readonly Dictionary<string, ChampionData> map;
+		
+		public ChampionDatabase()
+		{
+			const string path = "Assets/Content/RawData/10.14.1.ko_KR.json";
+			var f = JsonConvert.DeserializeObject<Full>(File.ReadAllText(path));
+
+			map = f.data;
+		}
+
+		public ChampionData GetChampionData(string championName)
+		{
+			if (map.TryGetValue(championName, out ChampionData data))
+			{
+				return data;
+			}
+			
+#if UNITY_EDITOR
+			throw new Exception($"Failed to find champion data::{championName}".Magenta());
+#endif
+
+			return null;
 		}
 	}
 
