@@ -1,33 +1,47 @@
 ﻿using System;
 using CQ.LeagueOfLegends.Objects;
+using UnityEngine;
 
 namespace CQ.LeagueOfLegends
 {
 	public class AIHeroClient : AIBase
 	{
+		[Header("AI Hero Client")]
+		[ReadOnly(EReadOnlyType.EDITABLE_RUNTIME)]
+		[SerializeField] protected string championName = default;
+
+		[ReadOnly(EReadOnlyType.EDITABLE_RUNTIME)] [SerializeField]
+		protected Experience experience;
+
+		[ReadOnly(EReadOnlyType.EDITABLE_RUNTIME)] [SerializeField]
+		protected int level;
+
+		[ReadOnly(EReadOnlyType.EDITABLE_RUNTIME)] [SerializeField]
+		protected Avatar avatar;
+		
 		public bool DoEmote(int emoteID)
 		{
-			throw new NotImplementedException();
+			return false;
 		}
 
 		public string GetChampionName()
 		{
-			throw new NotImplementedException();
+			return this.championName;
 		}
 
 		public Experience GetExperience()
 		{
-			throw new NotImplementedException();
+			return this.experience;
 		}
 
 		public int GetLevel()
 		{
-			throw new NotImplementedException();
+			return this.level;
 		}
 
 		public Avatar GetAvatar()
 		{
-			throw new NotImplementedException();
+			return this.avatar;
 		}
 	}
 }

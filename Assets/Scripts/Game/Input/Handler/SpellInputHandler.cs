@@ -1,5 +1,4 @@
-﻿using System;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.InputSystem;
 
 namespace CQ.LeagueOfLegends.Game
@@ -23,18 +22,7 @@ namespace CQ.LeagueOfLegends.Game
 			rift.Spell.Disable();
 		}
 
-		void DebugContext(InputAction.CallbackContext context, string msg)
-		{
-			if (context.started)
-			{
-				Debug.Log($"{msg}::Started".Green());
-			}
-
-			if (context.canceled)
-			{
-				Debug.Log($"{msg}::Canceled".Yellow());
-			}
-		}
+		
 
 		public void OnSpell1(InputAction.CallbackContext context)
 		{
