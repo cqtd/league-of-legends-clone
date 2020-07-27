@@ -18,6 +18,10 @@ namespace CQ.LeagueOfLegends
 
 		[ReadOnly(EReadOnlyType.EDITABLE_RUNTIME)] [SerializeField]
 		protected Avatar avatar;
+
+		[SerializeField] protected Animator animator;
+		[SerializeField] protected SkinnedMeshRenderer meshRenderer;
+		
 		
 		public bool DoEmote(int emoteID)
 		{
