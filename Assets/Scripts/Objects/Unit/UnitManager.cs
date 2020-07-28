@@ -6,7 +6,7 @@ namespace CQ.LeagueOfLegends
 {
 	public class UnitManager : MonoSingleton<UnitManager>
 	{
-		AIHeroClient localPlayer; 
+		[SerializeField] AIHeroClient localPlayer; 
 		readonly List<UnitBase> units = new List<UnitBase>();
 		
 		public uint GetMaxSize()
