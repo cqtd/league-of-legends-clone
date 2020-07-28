@@ -48,9 +48,9 @@ namespace CQ.LeagueOfLegends
 			
 #if UNITY_EDITOR
 			throw new Exception($"Failed to find champion data::{championName}".Magenta());
-#endif
-
+#else
 			return null;
+#endif
 		}
 	}
 
