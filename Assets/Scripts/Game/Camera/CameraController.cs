@@ -1,10 +1,14 @@
-﻿using UnityEngine;
+﻿using CQ.Native;
+using UnityEngine;
 using UnityEngine.InputSystem;
 
 namespace CQ.LeagueOfLegends.Game
 {
-	class CameraController : MonoBehaviour
+	public class CameraController : MonoBehaviour
 	{
+		public Vector3 minXY;
+		public Vector3 maxXY;
+		
 		class CameraState
 		{
 			public float yaw;
@@ -13,6 +17,8 @@ namespace CQ.LeagueOfLegends.Game
 			public float x;
 			public float y;
 			public float z;
+
+			CameraController controller;
 
 			public void SetFromTransform(Transform t)
 			{
@@ -24,6 +30,11 @@ namespace CQ.LeagueOfLegends.Game
 				z = t.position.z;
 			}
 
+			public void SetUp(CameraController controller)
+			{
+				this.controller = controller;
+			}
+
 			public void Translate(Vector3 translation)
 			{
 				Vector3 rotatedTranslation = Quaternion.Euler(pitch, yaw, roll) * translation;
@@ -31,6 +42,12 @@ namespace CQ.LeagueOfLegends.Game
 				x += rotatedTranslation.x;
 				y += rotatedTranslation.y;
 				z += rotatedTranslation.z;
+
+				x = Mathf.Min(x, controller.maxXY.x);
+				z = Mathf.Min(z, controller.maxXY.z);
+				
+				x = Mathf.Max(x, controller.minXY.x);
+				z = Mathf.Max(z, controller.minXY.z);
 			}
 
 			public void LerpTowards(CameraState target, float positionLerpPct, float rotationLerpPct)
@@ -69,7 +86,7 @@ namespace CQ.LeagueOfLegends.Game
 		public float rotationLerpTime = 0.01f;
 
 		[Tooltip("Whether or not to invert our Y axis for mouse input to rotation.")]
-		public bool invertY = false;
+		public bool invertY;
 
 		public Vector2 threshold = new Vector2(5, 5);
 		public float multiplier = 3;
@@ -77,102 +94,19 @@ namespace CQ.LeagueOfLegends.Game
 		void OnEnable()
 		{
 			m_TargetCameraState.SetFromTransform(transform);
+			m_TargetCameraState.SetUp(this);
 			m_InterpolatingCameraState.SetFromTransform(transform);
-
+			m_InterpolatingCameraState.SetUp(this);
+			
 			Cursor.lockState = CursorLockMode.Confined;
-		}
-
-		Vector3 GetInputTranslationDirection()
-		{
-			Vector3 direction = new Vector3();
-			if (Input.GetKey(KeyCode.W))
-			{
-				direction += Vector3.forward;
-			}
-
-			if (Input.GetKey(KeyCode.S))
-			{
-				direction += Vector3.back;
-			}
-
-			if (Input.GetKey(KeyCode.A))
-			{
-				direction += Vector3.left;
-			}
-
-			if (Input.GetKey(KeyCode.D))
-			{
-				direction += Vector3.right;
-			}
-
-			if (Input.GetKey(KeyCode.Q))
-			{
-				direction += Vector3.down;
-			}
-
-			if (Input.GetKey(KeyCode.E))
-			{
-				direction += Vector3.up;
-			}
-
-			return direction;
+			
+			Win32.SetCursorPos(Screen.width * 0.5f, Screen.height * 0.5f);
+			Win32.MouseEvent(Win32.MouseEventFlags.LeftDown);
+			Win32.MouseEvent(Win32.MouseEventFlags.LeftUp);
 		}
 
 		void Update()
 		{
-			Vector3 translation = Vector3.zero;
-
-#if ENABLE_LEGACY_INPUT_MANAGER
-            // Exit Sample  
-            if (Input.GetKey(KeyCode.Escape))
-            {
-                Application.Quit();
-				#if UNITY_EDITOR
-				UnityEditor.EditorApplication.isPlaying = false; 
-				#endif
-            }
-            // Hide and lock cursor when right mouse button pressed
-            if (Input.GetMouseButtonDown(1))
-            {
-                Cursor.lockState = CursorLockMode.Locked;
-            }
-
-            // Unlock and show cursor when right mouse button released
-            if (Input.GetMouseButtonUp(1))
-            {
-                Cursor.visible = true;
-                Cursor.lockState = CursorLockMode.None;
-            }
-
-            // Rotation
-            if (Input.GetMouseButton(1))
-            {
-                var mouseMovement =
- new Vector2(Input.GetAxis("Mouse X"), Input.GetAxis("Mouse Y") * (invertY ? 1 : -1));
-                
-                var mouseSensitivityFactor = mouseSensitivityCurve.Evaluate(mouseMovement.magnitude);
-
-                m_TargetCameraState.yaw += mouseMovement.x * mouseSensitivityFactor;
-                m_TargetCameraState.pitch += mouseMovement.y * mouseSensitivityFactor;
-            }
-            
-            // Translation
-            translation = GetInputTranslationDirection() * Time.deltaTime;
-
-            // Speed up movement when shift key held
-            if (Input.GetKey(KeyCode.LeftShift))
-            {
-                translation *= 10.0f;
-            }
-
-            // Modify movement by a boost factor (defined in Inspector and modified in play mode through the mouse scroll wheel)
-            boost += Input.mouseScrollDelta.y * 0.2f;
-            translation *= Mathf.Pow(2.0f, boost);
-
-#elif USE_INPUT_SYSTEM
-            // TODO: make the new input system work
-
-#endif
 			var mouse = Mouse.current.position.ReadValue();
 
 			Vector3 direction = new Vector3();
@@ -198,7 +132,7 @@ namespace CQ.LeagueOfLegends.Game
 				direction += Vector3.forward;
 			}
 
-			translation = direction * Time.deltaTime * multiplier;
+			Vector3 translation = direction * Time.deltaTime * multiplier;
 			translation *= Mathf.Pow(2.0f, boost);
 			
 			m_TargetCameraState.Translate(translation);

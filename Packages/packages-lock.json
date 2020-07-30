@@ -164,6 +164,15 @@
         "com.unity.modules.ui": "1.0.0"
       }
     },
+    "com.unity.universaltoonshader.urp": {
+      "version": "2.2.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.render-pipelines.universal": "7.3.1"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
