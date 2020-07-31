@@ -12,5 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 98c81fddac134d388621ab6864801837, type: 3}
   m_Name: Summoners Rift
   m_EditorClassIdentifier: 
-  mainScene: {fileID: 0}
-  subscenes: []
+  mainScene: {fileID: 102900000, guid: 77b066b3d3756b64091fede80864f3cd, type: 3}
+  subscenes:
+  - {fileID: 102900000, guid: bf7247249860b7e459c2a378a626fa90, type: 3}
+  - {fileID: 102900000, guid: bd3db30928709a94d953f48038bbb8f2, type: 3}
