@@ -1,10 +1,13 @@
-﻿using CQ.Native;
+﻿using System.Collections.Generic;
+using System.Linq;
+using System.Runtime.CompilerServices;
+using CQ.Native;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
 namespace CQ.LeagueOfLegends.Game
 {
-	public class CameraController : MonoBehaviour
+	public class CameraController : MonoBehaviour, Rift.ICameraActions
 	{
 		public Vector3 minXY;
 		public Vector3 maxXY;
@@ -91,6 +94,8 @@ namespace CQ.LeagueOfLegends.Game
 		public Vector2 threshold = new Vector2(5, 5);
 		public float multiplier = 3;
 
+		bool isFocusingLocalplayer = false;
+
 		void OnEnable()
 		{
 			m_TargetCameraState.SetFromTransform(transform);
@@ -103,9 +108,44 @@ namespace CQ.LeagueOfLegends.Game
 			Win32.SetCursorPos(Screen.width * 0.5f, Screen.height * 0.5f);
 			Win32.MouseEvent(Win32.MouseEventFlags.LeftDown);
 			Win32.MouseEvent(Win32.MouseEventFlags.LeftUp);
+			
+			var rift = new Rift();
+			rift.Camera.SetCallbacks(this);
+			rift.Camera.Enable();
 		}
 
 		void Update()
+		{
+			if (!isFocusingLocalplayer)
+			{
+				Vector3 direction = GetMouseInput();
+
+				if (pressed.Keys.Any(e => pressed[e]))
+				{
+					direction = GetKeyboardInput();
+				}
+
+				Vector3 translation = direction * Time.deltaTime * multiplier;
+				translation *= Mathf.Pow(2.0f, boost);
+
+				m_TargetCameraState.Translate(translation);
+
+				// Framerate-independent interpolation
+				// Calculate the lerp amount, such that we get 99% of the way to our target in the specified time
+				var positionLerpPct = 1f - Mathf.Exp((Mathf.Log(1f - 0.99f) / positionLerpTime) * Time.deltaTime);
+				var rotationLerpPct = 1f - Mathf.Exp((Mathf.Log(1f - 0.99f) / rotationLerpTime) * Time.deltaTime);
+				m_InterpolatingCameraState.LerpTowards(m_TargetCameraState, positionLerpPct, rotationLerpPct);
+
+				m_InterpolatingCameraState.UpdateTransform(transform);
+			}
+			else
+			{
+				// look at localplayer
+				AIHeroClient localPlayer = UnitManager.Instance.GetLoaclPlayer();
+			}
+		}
+
+		Vector3 GetMouseInput()
 		{
 			var mouse = Mouse.current.position.ReadValue();
 
@@ -132,18 +172,107 @@ namespace CQ.LeagueOfLegends.Game
 				direction += Vector3.forward;
 			}
 
-			Vector3 translation = direction * Time.deltaTime * multiplier;
-			translation *= Mathf.Pow(2.0f, boost);
+			return direction;
+		}
+
+		Vector3 GetKeyboardInput()
+		{
+			Vector3 direction = new Vector3();
+			if (Keyboard.current.leftArrowKey.isPressed)
+			{
+				// Move Left
+				direction += Vector3.left;
+			}
+			else if (Keyboard.current.rightArrowKey.isPressed)
+			{
+				// Move Right
+				direction += Vector3.right;
+			}
+
+			if (Keyboard.current.downArrowKey.isPressed)
+			{
+				// Move Down
+				direction += Vector3.back;
+			}
+			else if (Keyboard.current.upArrowKey.isPressed)
+			{
+				// Move Up
+				direction += Vector3.forward;
+			}
+
+			return direction;
+		}
+
+		public void OnSetFocus(InputAction.CallbackContext context)
+		{
+			if (context.started)
+			{
+				isFocusingLocalplayer = true;
+			}
+
+			if (context.canceled)
+			{
+				isFocusingLocalplayer = false;
+			}
+		}
+
+		public void OnToggleFocusLock(InputAction.CallbackContext context)
+		{
 			
-			m_TargetCameraState.Translate(translation);
+		}
 
-			// Framerate-independent interpolation
-			// Calculate the lerp amount, such that we get 99% of the way to our target in the specified time
-			var positionLerpPct = 1f - Mathf.Exp((Mathf.Log(1f - 0.99f) / positionLerpTime) * Time.deltaTime);
-			var rotationLerpPct = 1f - Mathf.Exp((Mathf.Log(1f - 0.99f) / rotationLerpTime) * Time.deltaTime);
-			m_InterpolatingCameraState.LerpTowards(m_TargetCameraState, positionLerpPct, rotationLerpPct);
+		Dictionary<string, bool> pressed = new Dictionary<string, bool>();
 
-			m_InterpolatingCameraState.UpdateTransform(transform);
+		public void OnLeft(InputAction.CallbackContext context)
+		{
+			if (context.started)
+			{
+				pressed[context.action.name] = true;
+			}
+
+			if (context.canceled)
+			{
+				pressed[context.action.name] = false;
+			}
+		}
+
+		public void OnRight(InputAction.CallbackContext context)
+		{
+			if (context.started)
+			{
+				pressed[context.action.name] = true;
+			}
+
+			if (context.canceled)
+			{
+				pressed[context.action.name] = false;
+			}
+		}
+
+		public void OnUp(InputAction.CallbackContext context)
+		{
+			if (context.started)
+			{
+				pressed[context.action.name] = true;
+			}
+
+			if (context.canceled)
+			{
+				pressed[context.action.name] = false;
+			}
+		}
+
+		public void OnDown(InputAction.CallbackContext context)
+		{
+			if (context.started)
+			{
+				pressed[context.action.name] = true;
+			}
+
+			if (context.canceled)
+			{
+				pressed[context.action.name] = false;
+			}
 		}
 	}
 }

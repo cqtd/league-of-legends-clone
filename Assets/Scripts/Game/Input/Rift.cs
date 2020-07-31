@@ -590,6 +590,128 @@ namespace CQ.LeagueOfLegends.Game
                     ""isPartOfComposite"": false
                 }
             ]
+        },
+        {
+            ""name"": ""Camera"",
+            ""id"": ""32484048-3e9c-4b0d-b6f7-2d80a620d158"",
+            ""actions"": [
+                {
+                    ""name"": ""SetFocus"",
+                    ""type"": ""Button"",
+                    ""id"": ""6c88a722-517f-486a-9c80-f970d6b6a4b0"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """"
+                },
+                {
+                    ""name"": ""ToggleFocusLock"",
+                    ""type"": ""Button"",
+                    ""id"": ""d0a14fa2-05cc-43b5-a310-b0150ef78641"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """"
+                },
+                {
+                    ""name"": ""Left"",
+                    ""type"": ""Button"",
+                    ""id"": ""c03aab77-ef65-4545-b79d-1bef58c9f05f"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """"
+                },
+                {
+                    ""name"": ""Right"",
+                    ""type"": ""Button"",
+                    ""id"": ""68d37e2a-bc13-43db-92bb-dd40f8fd7828"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """"
+                },
+                {
+                    ""name"": ""Up"",
+                    ""type"": ""Button"",
+                    ""id"": ""6bf770fd-75e4-422e-9603-2a404c22e8c2"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """"
+                },
+                {
+                    ""name"": ""Down"",
+                    ""type"": ""Button"",
+                    ""id"": ""018745c0-6a1d-4564-a5cd-1867f2b47184"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """"
+                }
+            ],
+            ""bindings"": [
+                {
+                    ""name"": """",
+                    ""id"": ""b7a9ce70-bc41-4034-9fe2-26fa1a06843f"",
+                    ""path"": ""<Keyboard>/space"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""SetFocus"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""c2d029df-fb18-4e34-a46e-a38f17d1aa52"",
+                    ""path"": ""<Keyboard>/y"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""ToggleFocusLock"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""badc505f-446d-4845-a913-444657f38a20"",
+                    ""path"": ""<Keyboard>/leftArrow"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Left"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""0a09ce88-6aac-4192-84d4-bdb61f2b63a9"",
+                    ""path"": ""<Keyboard>/rightArrow"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Right"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""5cdd2cb4-1066-4a74-89e1-d766ed23aea1"",
+                    ""path"": ""<Keyboard>/upArrow"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Up"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""c260eb3d-c0d3-45d3-8caf-b5e95b40f022"",
+                    ""path"": ""<Keyboard>/downArrow"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Down"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                }
+            ]
         }
     ],
     ""controlSchemes"": []
@@ -632,6 +754,14 @@ namespace CQ.LeagueOfLegends.Game
             m_Mouse = asset.FindActionMap("Mouse", throwIfNotFound: true);
             m_Mouse_Left = m_Mouse.FindAction("Left", throwIfNotFound: true);
             m_Mouse_Right = m_Mouse.FindAction("Right", throwIfNotFound: true);
+            // Camera
+            m_Camera = asset.FindActionMap("Camera", throwIfNotFound: true);
+            m_Camera_SetFocus = m_Camera.FindAction("SetFocus", throwIfNotFound: true);
+            m_Camera_ToggleFocusLock = m_Camera.FindAction("ToggleFocusLock", throwIfNotFound: true);
+            m_Camera_Left = m_Camera.FindAction("Left", throwIfNotFound: true);
+            m_Camera_Right = m_Camera.FindAction("Right", throwIfNotFound: true);
+            m_Camera_Up = m_Camera.FindAction("Up", throwIfNotFound: true);
+            m_Camera_Down = m_Camera.FindAction("Down", throwIfNotFound: true);
         }
 
         public void Dispose()
@@ -1035,6 +1165,79 @@ namespace CQ.LeagueOfLegends.Game
             }
         }
         public MouseActions @Mouse => new MouseActions(this);
+
+        // Camera
+        private readonly InputActionMap m_Camera;
+        private ICameraActions m_CameraActionsCallbackInterface;
+        private readonly InputAction m_Camera_SetFocus;
+        private readonly InputAction m_Camera_ToggleFocusLock;
+        private readonly InputAction m_Camera_Left;
+        private readonly InputAction m_Camera_Right;
+        private readonly InputAction m_Camera_Up;
+        private readonly InputAction m_Camera_Down;
+        public struct CameraActions
+        {
+            private @Rift m_Wrapper;
+            public CameraActions(@Rift wrapper) { m_Wrapper = wrapper; }
+            public InputAction @SetFocus => m_Wrapper.m_Camera_SetFocus;
+            public InputAction @ToggleFocusLock => m_Wrapper.m_Camera_ToggleFocusLock;
+            public InputAction @Left => m_Wrapper.m_Camera_Left;
+            public InputAction @Right => m_Wrapper.m_Camera_Right;
+            public InputAction @Up => m_Wrapper.m_Camera_Up;
+            public InputAction @Down => m_Wrapper.m_Camera_Down;
+            public InputActionMap Get() { return m_Wrapper.m_Camera; }
+            public void Enable() { Get().Enable(); }
+            public void Disable() { Get().Disable(); }
+            public bool enabled => Get().enabled;
+            public static implicit operator InputActionMap(CameraActions set) { return set.Get(); }
+            public void SetCallbacks(ICameraActions instance)
+            {
+                if (m_Wrapper.m_CameraActionsCallbackInterface != null)
+                {
+                    @SetFocus.started -= m_Wrapper.m_CameraActionsCallbackInterface.OnSetFocus;
+                    @SetFocus.performed -= m_Wrapper.m_CameraActionsCallbackInterface.OnSetFocus;
+                    @SetFocus.canceled -= m_Wrapper.m_CameraActionsCallbackInterface.OnSetFocus;
+                    @ToggleFocusLock.started -= m_Wrapper.m_CameraActionsCallbackInterface.OnToggleFocusLock;
+                    @ToggleFocusLock.performed -= m_Wrapper.m_CameraActionsCallbackInterface.OnToggleFocusLock;
+                    @ToggleFocusLock.canceled -= m_Wrapper.m_CameraActionsCallbackInterface.OnToggleFocusLock;
+                    @Left.started -= m_Wrapper.m_CameraActionsCallbackInterface.OnLeft;
+                    @Left.performed -= m_Wrapper.m_CameraActionsCallbackInterface.OnLeft;
+                    @Left.canceled -= m_Wrapper.m_CameraActionsCallbackInterface.OnLeft;
+                    @Right.started -= m_Wrapper.m_CameraActionsCallbackInterface.OnRight;
+                    @Right.performed -= m_Wrapper.m_CameraActionsCallbackInterface.OnRight;
+                    @Right.canceled -= m_Wrapper.m_CameraActionsCallbackInterface.OnRight;
+                    @Up.started -= m_Wrapper.m_CameraActionsCallbackInterface.OnUp;
+                    @Up.performed -= m_Wrapper.m_CameraActionsCallbackInterface.OnUp;
+                    @Up.canceled -= m_Wrapper.m_CameraActionsCallbackInterface.OnUp;
+                    @Down.started -= m_Wrapper.m_CameraActionsCallbackInterface.OnDown;
+                    @Down.performed -= m_Wrapper.m_CameraActionsCallbackInterface.OnDown;
+                    @Down.canceled -= m_Wrapper.m_CameraActionsCallbackInterface.OnDown;
+                }
+                m_Wrapper.m_CameraActionsCallbackInterface = instance;
+                if (instance != null)
+                {
+                    @SetFocus.started += instance.OnSetFocus;
+                    @SetFocus.performed += instance.OnSetFocus;
+                    @SetFocus.canceled += instance.OnSetFocus;
+                    @ToggleFocusLock.started += instance.OnToggleFocusLock;
+                    @ToggleFocusLock.performed += instance.OnToggleFocusLock;
+                    @ToggleFocusLock.canceled += instance.OnToggleFocusLock;
+                    @Left.started += instance.OnLeft;
+                    @Left.performed += instance.OnLeft;
+                    @Left.canceled += instance.OnLeft;
+                    @Right.started += instance.OnRight;
+                    @Right.performed += instance.OnRight;
+                    @Right.canceled += instance.OnRight;
+                    @Up.started += instance.OnUp;
+                    @Up.performed += instance.OnUp;
+                    @Up.canceled += instance.OnUp;
+                    @Down.started += instance.OnDown;
+                    @Down.performed += instance.OnDown;
+                    @Down.canceled += instance.OnDown;
+                }
+            }
+        }
+        public CameraActions @Camera => new CameraActions(this);
         public interface ISpellActions
         {
             void OnSpell1(InputAction.CallbackContext context);
@@ -1078,6 +1281,15 @@ namespace CQ.LeagueOfLegends.Game
         {
             void OnLeft(InputAction.CallbackContext context);
             void OnRight(InputAction.CallbackContext context);
+        }
+        public interface ICameraActions
+        {
+            void OnSetFocus(InputAction.CallbackContext context);
+            void OnToggleFocusLock(InputAction.CallbackContext context);
+            void OnLeft(InputAction.CallbackContext context);
+            void OnRight(InputAction.CallbackContext context);
+            void OnUp(InputAction.CallbackContext context);
+            void OnDown(InputAction.CallbackContext context);
         }
     }
 }

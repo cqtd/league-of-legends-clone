@@ -4,7 +4,7 @@ using UniRx.Triggers;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace CQ.LeagueOfLegends.UI
+namespace CQ.LeagueOfLegends
 {
 	public class NativeScreen : MonoBehaviour
 	{
