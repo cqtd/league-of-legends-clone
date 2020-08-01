@@ -9,7 +9,7 @@ namespace CQ.LeagueOfLegends.Editor
 		{
 			base.OnInspectorGUI();
 
-			EditorGUILayout.ObjectField("LocalPlayer", ((UnitManager) target).GetLoaclPlayer(), typeof(AIHeroClient), true);
+			// EditorGUILayout.ObjectField("LocalPlayer", ((UnitManager) target).GetLoaclPlayer(), typeof(AIHeroClient), true);
 		}
 	}
 }

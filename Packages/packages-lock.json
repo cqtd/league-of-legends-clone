@@ -49,6 +49,13 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.unity.ai.navmesh": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
     "com.unity.collab-proxy": {
       "version": "1.3.8",
       "depth": 0,

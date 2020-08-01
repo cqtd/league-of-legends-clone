@@ -6,7 +6,7 @@ namespace CQ.LeagueOfLegends
 {
 	public class UnitManager : MonoSingleton<UnitManager>
 	{
-		[SerializeField] AIHeroClient localPlayer; 
+		[SerializeField] Player localPlayer; 
 		readonly List<UnitBase> units = new List<UnitBase>();
 		
 		public uint GetMaxSize()
@@ -33,7 +33,7 @@ namespace CQ.LeagueOfLegends
 			Screen.fullScreenMode = FullScreenMode.FullScreenWindow;
 		}
 
-		public AIHeroClient GetLoaclPlayer()
+		public Player GetLoaclPlayer()
 		{
 			return localPlayer;
 		}

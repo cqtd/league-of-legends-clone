@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.28502738, g: 0.37139428, b: 0.49601156, a: 1}
+  m_IndirectSpecularColor: {r: 0.20749143, g: 0.21147497, b: 0.14576834, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -933,6 +933,8 @@ GameObject:
   - component: {fileID: 5866666020671775110}
   - component: {fileID: 919132148251976007}
   - component: {fileID: 919132148251976008}
+  - component: {fileID: 919132148251976009}
+  - component: {fileID: 919132148251976010}
   m_Layer: 0
   m_Name: Ahri
   m_TagString: Untagged
@@ -949,7 +951,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 919132148251976006}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ac0a56db3e9e4a12aa24a1ff81aa3d2c, type: 3}
+  m_Script: {fileID: 11500000, guid: 1fde5a846e87435499b58571223e1c82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   unitType: 31
@@ -965,11 +967,13 @@ MonoBehaviour:
   maxMana: -1
   gold: -1
   goldTotal: -1
-  inventory: {fileID: 0}
+  inventory: {fileID: 919132148251976009}
+  agent: {fileID: 919132148251976008}
   championName: 
   level: 0
   animator: {fileID: 5866666020671775110}
   meshRenderer: {fileID: 7644998464169029639}
+  spellbook: {fileID: 919132148251976010}
 --- !u!195 &919132148251976008
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -980,10 +984,10 @@ NavMeshAgent:
   m_Enabled: 1
   m_AgentTypeID: 0
   m_Radius: 0.5
-  m_Speed: 3.5
-  m_Acceleration: 8
+  m_Speed: 5
+  m_Acceleration: 12
   avoidancePriority: 50
-  m_AngularSpeed: 120
+  m_AngularSpeed: 300
   m_StoppingDistance: 0
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
@@ -992,6 +996,30 @@ NavMeshAgent:
   m_BaseOffset: 0
   m_WalkableMask: 4294967295
   m_ObstacleAvoidanceType: 4
+--- !u!114 &919132148251976009
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 919132148251976006}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d275041320774cb58a7213ac37a1ed37, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &919132148251976010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 919132148251976006}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55197173968e3b645bf4d9c4e6a769e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &951011103363010573
 GameObject:
   m_ObjectHideFlags: 0

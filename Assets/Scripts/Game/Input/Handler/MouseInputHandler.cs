@@ -44,7 +44,28 @@ namespace CQ.LeagueOfLegends.Game
 			{
 				if (GetMouseUnderObject(out var hit))
 				{
-					Debug.Log($"Hit! :: {hit.transform.gameObject}", hit.transform.gameObject);
+					var localPlayer = UnitManager.Instance.GetLoaclPlayer();
+					
+					if (hit.collider.CompareTag("Enemy"))
+					{
+						localPlayer.Attack(hit.collider.gameObject.GetComponent<AttackableUnit>());
+					} 
+					else if (hit.collider.CompareTag("Floor"))
+					{
+						localPlayer.Move(hit.point);
+					}
+					else if (hit.collider.CompareTag("Neutral"))
+					{
+						localPlayer.Attack(hit.collider.gameObject.GetComponent<AttackableUnit>());
+					}
+					else if (hit.collider.CompareTag("Team"))
+					{
+						localPlayer.Move(hit.point);
+					}
+					else
+					{
+						Debug.Log($"Hit! :: {hit.transform.gameObject}", hit.transform.gameObject);	
+					}
 				}
 			}
 		}

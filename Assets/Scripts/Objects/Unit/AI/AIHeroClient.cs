@@ -1,5 +1,4 @@
-﻿using System;
-using CQ.LeagueOfLegends.Objects;
+﻿using CQ.LeagueOfLegends.Objects;
 using UnityEngine;
 
 namespace CQ.LeagueOfLegends
@@ -21,6 +20,7 @@ namespace CQ.LeagueOfLegends
 
 		[SerializeField] protected Animator animator;
 		[SerializeField] protected SkinnedMeshRenderer meshRenderer;
+		[SerializeField] protected SpellBook spellbook;
 		
 		
 		public bool DoEmote(int emoteID)
