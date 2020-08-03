@@ -5,8 +5,9 @@
 
 ### Requirement
 DoTweenPro 로컬 패키지 (없으면 Free 버전을 사용하세요)
+[Workspace Enhancer](https://github.com/cqtd/com.cqtd.workspace.enhancer) 로컬 패키지
 
-### 목표
+### Goal
 1. 게임 워크플로우 비헤이비어 구현 (C# Core)
 2. Patchable Database 방식으로 변경된 데이터 deploy/patch 구현
 3. raw resources를 extract 해서 unity compatible asset으로 변경해 사용
@@ -17,6 +18,15 @@ DoTweenPro 로컬 패키지 (없으면 Free 버전을 사용하세요)
 
 
 
-### 레퍼런스
+### References
+#### Extractor
 - Obsidian : Resource extractor
 - lol2dae : Resource format convert
+
+#### Architecture
+- LeagueSandboxClient
+- EloBuddy
+- EnsoulSharp
+
+#### Unity Assets
+- Standard Asset Character Controller : Unity Technologies
