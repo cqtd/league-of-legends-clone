@@ -7,6 +7,7 @@ using UnityEngine.Assertions;
 
 namespace CQ.LeagueOfLegends
 {
+	//https://developer.riotgames.com/docs/lol
 	//http://ddragon.leagueoflegends.com/cdn/10.14.1/data/ko_KR/championFull.json
 
 	class Utility
