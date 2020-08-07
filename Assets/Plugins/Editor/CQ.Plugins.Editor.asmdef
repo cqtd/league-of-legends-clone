@@ -1,0 +1,17 @@
+{
+    "name": "CQ.Plugins.Editor",
+    "references": [
+        "GUID:2ee8d02aa8112c84190e2d5f4f74c0ec"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
