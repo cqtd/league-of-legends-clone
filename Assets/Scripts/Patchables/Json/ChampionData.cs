@@ -12,7 +12,9 @@ namespace CQ.LeagueOfLegends
 
 	class Utility
 	{
+#if UNITY_EDITOR
 		[UnityEditor.MenuItem("Tools/Champion Count")]
+#endif
 		static void ParseJson()
 		{
 			const string path = "Assets/Content/RawData/10.14.1.ko_KR.json";
@@ -20,8 +22,9 @@ namespace CQ.LeagueOfLegends
 			
 			Debug.Log($"Champion Count :: {f.data.Count}".Bold());
 		}
-
+#if UNITY_EDITOR
 		[UnityEditor.MenuItem("Tools/Parse Champion Data")]
+#endif
 		static void ParseChampionData()
 		{
 			
