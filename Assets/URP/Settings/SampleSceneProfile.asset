@@ -1,5 +1,19 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8745218079769319328
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d704420f96a769d4e85d3cfdcf8aae8a, type: 3}
+  m_Name: ShapeRenderer
+  m_EditorClassIdentifier: 
+  active: 1
+  m_AdvancedMode: 0
 --- !u!114 &-7893295128165547882
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -139,6 +153,7 @@ MonoBehaviour:
   - {fileID: -7011558710299706105}
   - {fileID: -6957445256858034227}
   - {fileID: 4034476176391042001}
+  - {fileID: -8745218079769319328}
 --- !u!114 &849379129802519247
 MonoBehaviour:
   m_ObjectHideFlags: 3
